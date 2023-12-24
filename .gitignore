@@ -1,5 +1,7 @@
 .venv/
+.idea/
 book/
+.project/
 
 *.iso
 *.log
